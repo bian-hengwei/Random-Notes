@@ -166,7 +166,7 @@ IntersectHalfplanes(H)
 
 -   Given a flow network, a cut $(S, T)$ is a partition of $V$ into two disjoint subsets $S$ and $T$ such that $s \in S$ and $t \in T$
 -   Let $f$ be a flow thorugh $G$, The **net flow** through the cut is the sum of flows that leave $S$ minus the sum of flows that go into $S$
--   The **capacity** of a cut is the sum of capacities on the edges from a vertes in $S$ to a vertex in $T$
+-   The **capacity** of a cut is the sum of capacities on the edges from a vertex in $S$ to a vertex in $T$
 -   A **minimum cut** is a cut with the minimum capacity of all network cuts
 
 
