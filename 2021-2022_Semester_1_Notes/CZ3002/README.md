@@ -1,6 +1,6 @@
-# CZ3003 Final Notes
+# [CZ3002 Final Notes](../../)
 
-## Topic tested for final:
+## Topics tested for final:
 
 ### [Lecture 1: Intro](L1.md)
 
