@@ -1,4 +1,4 @@
-# [CZ3002 Final Notes](../../)
+# [CZ3002 Final Notes](https://github.com/bian-hengwei/Random-Notes)
 
 ## Topics tested for final:
 
@@ -24,7 +24,9 @@
 -   From Effort to Duration
 -   From Duration to Team Size
 
-### [Lecture 5 & 6: Project Scheduling](L5.md)
+### [Lecture 5: Project Estimation - COCOMO](L5.md)
+
+### [Lecture 6: Project Scheduling](L5.md)
 
 -   Time-Cost Model
 
