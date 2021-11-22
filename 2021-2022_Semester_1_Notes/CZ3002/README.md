@@ -46,7 +46,7 @@
 
 ### [Lecture 10: Release Management](L10.md)
 
--   Whats the role of Release Manager
+-   Whats the role of Release Management
 
 ### [Lecture 11: Change Management](L11.md)
 
