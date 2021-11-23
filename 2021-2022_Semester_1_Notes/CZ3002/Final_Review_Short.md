@@ -498,7 +498,7 @@ Defining the quality of a process
 
 
 
-### Version control
+### Version Control
 
 -   Project database
 -   Version management
